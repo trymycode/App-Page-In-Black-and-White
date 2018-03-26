@@ -1,0 +1,36 @@
+html{
+	height:100%;
+}
+body{
+  background-image:url(https://1079638729.rsc.cdn77.org/pic/v2/gallery/preview/fon-luna-noch-yumor-25060.jpg);
+  
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Joti One', cursive;
+}
+.content{
+  text-align:center;
+  padding-top:25%;
+  font-family: 'Joti One', cursive;
+  color:white;
+
+  
+}
+
+.navbar{
+	font-family: 'Joti One', cursive;
+	font-size:1.4em;
+}
+#brand{
+font-size:1.5em;	
+}
+#title{
+	font-size:4em;
+}
+#button:hover{
+	background-color: #eff486;
+}
+hr{
+	box-shadow: 2px  1px 7px  rgba(255,255,255,0.7);
+}
